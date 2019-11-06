@@ -1,5 +1,6 @@
 import React from "react";
+import "./styles.css"
 
-const Display = () => {
-  return <div className="display">{/* Display any props data here */}</div>;
+export const Display = (props) => {
+  return <div className="display">{/* Display any props data here */props.displayValue}</div>;
 };
