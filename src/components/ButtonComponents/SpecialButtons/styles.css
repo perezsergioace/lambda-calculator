@@ -1,0 +1,15 @@
+.special_button {
+    width: 70px;
+    background-color: #085DAC;
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    width: 70px;
+    border-radius: 45%;
+    border: none;
+    padding:35px;
+    margin: 10px 5px;
+    font-size: 30px;
+    grid-gap: 20px;
+    padding: 20px;
+}
